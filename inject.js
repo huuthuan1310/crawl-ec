@@ -1032,7 +1032,7 @@
                                   : o.sku
                               ),
                               console.log(
-                                "Stock available: ",
+                                "Stock available 2: ",
                                 null === (n = e.productData.filterable) ||
                                   void 0 === n
                                   ? void 0
